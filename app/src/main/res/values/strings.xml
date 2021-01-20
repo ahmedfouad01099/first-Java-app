@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your Name?</string>
+    <string name="password">password</string>
+    <string name="button">Button</string>
+    <string name="what_s_your_name">what\'s your name?</string>
+    <string name="enter_your_name1">Enter Your name...</string>
+    <string name="submit">Submit</string>
 </resources>
